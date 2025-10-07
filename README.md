@@ -9,4 +9,4 @@ Plan to add all my own and other interesting research papers here :)
 
 ### PhD
 
-1. [A Novel Image Similarity Metric for Scene Composition Structure](http://arxiv.org/abs/2508.05037) | [2025 IEEE ICIP](https://2025.ieeeicip.org)
+1. [A Novel Image Similarity Metric for Scene Composition Structure](http://arxiv.org/abs/2508.05037) <br> | [2025 IEEE ICIP (Workshop: Generative AI for World Simulations and Communications)](https://2025.ieeeicip.org)
