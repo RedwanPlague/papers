@@ -9,4 +9,5 @@ Plan to add all my own and other interesting research papers here :)
 
 ### PhD
 
-1. [A Novel Image Similarity Metric for Scene Composition Structure](https://doi.org/10.1109/ICIPW68931.2025.11386242) <br> | [2025 IEEE ICIP (Workshop: Generative AI for World Simulations and Communications)](https://2025.ieeeicip.org)
+1. [A Novel Image Similarity Metric for Scene Composition Structure](https://doi.org/10.1109/ICIPW68931.2025.11386242) <br> @ [IEEE ICIP 2025 (Workshop: Generative AI for World Simulations and Communications)](https://2025.ieeeicip.org)
+2. [FAIR: Feature-Augmented Implicit Regularization for AI-generated Fake Image Detection](https://doi.org/10.48550/arXiv.2607.22087) <br> @ [ECCV 2026](https://eccv.ecva.net)
